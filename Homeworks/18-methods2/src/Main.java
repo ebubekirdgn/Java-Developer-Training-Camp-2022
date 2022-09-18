@@ -1,28 +1,29 @@
 ﻿public class Main {
     public static void main(String[] args) {
-        sayiBulmaca();
+        String mesaj = "Bugün hava çok güzel";
+        String yeniMesaj = mesaj.substring(0,2);// baslangıc dahil bitis dahil degildir.
+        String deger = sehirVer();
+        System.out.println(yeniMesaj);
+        int sayi = topla(15,7);
+        System.out.println(sayi);
+
     }
     
-    public static void sayiBulmaca(){
-        int[] sayilar = new int[]{1, 2, 5, 7, 9, 0};
-        int aranacak = 3;
-        boolean listedeVarMi = false;
-
-        for (int sayi : sayilar) {
-            if (sayi == aranacak) {
-                listedeVarMi = true;
-                break;
-            }
-        }
-
-        if (listedeVarMi) {
-           mesajVer(aranacak + " sayısı listede var.");
-        } else {
-           mesajVer(aranacak + " sayısı listede bulunamadı.");
-        }
+    public static void ekle(){
+        System.out.println("Eklendi");
+    }
+    public static void sil(){
+        System.out.println("Silindi");
     }
     
-      public static void mesajVer(String mesaj){
-          System.out.println(mesaj);
-      }
+    public static void guncelle(){
+       System.out.println("Güncellendi");
+    }
+    public static int topla(int s1,int s2){
+        
+        return s1+s2;
+    }
+    public static String sehirVer(){
+        return "Ankara";
+    } 
 }
