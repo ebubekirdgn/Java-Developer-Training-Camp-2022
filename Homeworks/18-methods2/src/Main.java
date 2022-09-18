@@ -6,6 +6,8 @@
         System.out.println(yeniMesaj);
         int sayi = topla(15,7);
         System.out.println(sayi);
+        int toplam = topla(1,2,3,3,4,4,65);
+        System.out.println(toplam);
 
     }
     
@@ -22,6 +24,14 @@
     public static int topla(int s1,int s2){
         
         return s1+s2;
+    }
+    public static int topla(int... sayilar){ // ... variables arguments denir buna
+        int toplam = 0;
+        
+        for(int sayi : sayilar){
+            toplam += sayi;
+        }
+        return toplam;
     }
     public static String sehirVer(){
         return "Ankara";
