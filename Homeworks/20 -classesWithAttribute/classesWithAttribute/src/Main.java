@@ -1,12 +1,12 @@
 public class Main {
     public static void main(String[] args) {
         Product product = new Product();
-        product.name = "Laptop";
-        product.id = 1;
-        product.description="Asus Laptop";
-        product.price = 250;
-        product.stockAmount = 4;
-        System.out.println(product.name);
+        product.set_name("Laptop");
+        product.set_id(1);
+        product.set_description("Asus Laptop");
+        product.set_price(250);
+        product.set_stockAmount(5);
+        System.out.println(product.get_name());
 
         ProductManager productManager = new ProductManager();
         productManager.Add(product);
