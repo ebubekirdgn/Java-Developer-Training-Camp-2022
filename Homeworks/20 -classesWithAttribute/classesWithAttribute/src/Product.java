@@ -2,10 +2,15 @@ public class Product {
 
     public Product(int id, String name, String description, double price,int stockAmount,String renk ){
         System.out.println("Yapıcı method çalıştı.");
+        _id = id;
+        _renk = renk;
+        _price = price;
+        _name = name;
+        _description = description;
+        _stockAmount = stockAmount;
     }
 
     public Product( ){
-        System.out.println("Method Overloading çalıştı.");
     }
     // attribute (java) veya field (c#) denmektedir.
     // erişim belirleyicileri defaul = public'tir.
