@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        Product product = new Product();
+        Product product = new Product(1,"Laptop","Asus Laptop",3000,2,"Siyah");
         product.set_name("Laptop");
         product.set_id(1);
         product.set_description("Asus Laptop");
