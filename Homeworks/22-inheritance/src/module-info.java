@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author CodeMachine
+ *
+ */
+module inheritance {
+}
