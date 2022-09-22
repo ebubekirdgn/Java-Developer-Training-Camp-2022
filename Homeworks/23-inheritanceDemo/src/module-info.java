@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author CodeMachine
- *
- */
-module inheritanceDemo {
-}
