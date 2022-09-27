@@ -3,8 +3,8 @@ public class CustomerManager{
 	public CustomerManager(BaseLogger logger){
 		this.logger = logger;
 	}
-   public void Add(){
+   public void add(){
 		System.out.println("Müşteri eklendi");
-		this.logger.Log("Database Log Mesajı");
+		this.logger.log("Database Log Mesajı");
    }	   
 }

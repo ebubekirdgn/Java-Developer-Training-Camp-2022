@@ -1,7 +1,7 @@
 public class Main {
 	public static void main(String[] args) {
 		//EmailLogger emailLogger = new EmailLogger();
-		//emailLogger.Log("Log Mesaji")
+		//emailLogger.log("Log Mesaji")
 		
 	/*	BaseLogger[] loggers = new BaseLogger[]{new FileLogger(),new EmailLogger(),new DatabaseLogger(),new ConsoleLogger()};
 		// bu sekilde birden fazla verebiliyoruz.
@@ -9,6 +9,6 @@ public class Main {
 			logger.Log("Log Mesaji");
 	*/
 		CustomerManager customerManager = new CustomerManager(new DatabaseLogger());
-		customerManager.Add();
+		customerManager.add();
 	}
 }
