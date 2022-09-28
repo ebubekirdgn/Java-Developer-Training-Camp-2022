@@ -7,6 +7,15 @@ public class Main {
         * */
 
         ICustomerDal customerDal = new OracleCustomerDal();
-        customerDal.add();
+        customerDal.Add();
+		
+		//Bağımlılığı azalttık 1. Yöntem
+		CustomerManager customerManager  = new CustomerManager();
+		customerManager.customerDal = new OracleCustomerDal();
+		customerManager.add();
+		
+		//Bağımlılığı azalttık 2. Yöntem contructor ile karsiladik veritabanını
+		CustomerManager customerManager  = new CustomerManager(new OracleCustomerDal());
+		customerManager.add();
     }
 }

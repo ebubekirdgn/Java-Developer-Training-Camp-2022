@@ -1,5 +1,5 @@
 public interface ICustomerDal {
-    void add();
+    void Add();
 }
 
 // interfaceler class değildir sadece referans tutucudurlar.
