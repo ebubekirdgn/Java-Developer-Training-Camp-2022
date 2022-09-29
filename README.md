@@ -4,24 +4,32 @@
 | Contents |
 | --- |
 | 1. [Java Demo](https://github.com/ebubekirdgn/Java-Developer-Training-Camp-2022/tree/main/Homeworks/1%20-%20javademos/src) |
-| 2. [Operators](https://github.com/ebubekirdgn/Python-Advance-Level/tree/main/02_Operators) |
-| 3. [Conditional Expression](https://github.com/ebubekirdgn/Python-Advance-Level/tree/main/3%20-%20Conditional%20Expressions) |
-| 4. [Loops](https://github.com/ebubekirdgn/Python-Advance-Level/tree/main/04_Loops) |
-| 5. [Functions](https://github.com/ebubekirdgn/Python-Advance-Level/tree/main/05_Functions) |
-| 6. [Object Oriented Programming](https://github.com/ebubekirdgn/Python-Advance-Level/tree/main/06_Object%20Oriented%20Programming) |
-| 7. [Modules](https://github.com/ebubekirdgn/Python-Advance-Level/tree/main/07_Modules) |
-| 8. [Errors and Errors Management](https://github.com/ebubekirdgn/Python-Advance-Level/tree/main/08_Errors%20and%20Errors%20Management) |
-| 9. [File Management](https://github.com/ebubekirdgn/Python-Advance-Level/tree/main/09_File%20Management) |
-| 10. [Advanced Properties of Functions](https://github.com/ebubekirdgn/Python-Advance-Level/tree/main/10_Advanced%20Properties%20of%20Functions) |
-| 11. [Iterators](https://github.com/ebubekirdgn/Python-Advance-Level/tree/main/11_Iterators)  |
-| 12. [Generators](https://github.com/ebubekirdgn/Python-Advance-Level/tree/main/12_Generators)  |
-| 13. [Advanced Python Modules](https://github.com/ebubekirdgn/Python-Advance-Level/tree/main/13_Advanced%20Python%20Modules)|
-| 14. [Selenium](https://github.com/ebubekirdgn/Python-Advance-Level/tree/main/14_Selenium)  |
-| 15. [Numpy](https://github.com/ebubekirdgn/Python-Advance-Level/tree/main/15_Numpy)  |
-| 16. [Pandas](https://github.com/ebubekirdgn/Python-Advance-Level/tree/main/16_Pandas)  |
-| 17. [Matploid](https://github.com/ebubekirdgn/Python-Advance-Level/tree/main/17_Matploid)|
-| 18. [SQL Database MySql & SQLite](https://github.com/ebubekirdgn/Python-Advance-Level/tree/main/18_SQLDatabaseMySql%26SQLite)|
-| 19. [NoSQL Database MongoDb](https://github.com/ebubekirdgn/Python-Advance-Level/tree/main/19_NoSQL%20Database%20MongoDb)|
-| 20. [Desktop Application Development PyQt5](https://github.com/ebubekirdgn/Python-Advance-Level/tree/main/20_DesktopApplicationDevelopmentPyQt5)|
-| 21. [Web Development with DJANGO](https://github.com/ebubekirdgn/Python-Advance-Level/tree/main/21_Django)  |
-| 22. [Computer Vision Open CV](https://github.com/ebubekirdgn/Python-Advance-Level/tree/main/22_OpenCv-Computer%20Vision-2021)  |
+| 2. [Variables](https://github.com/ebubekirdgn/Java-Developer-Training-Camp-2022/tree/main/Homeworks/2%20-%20variables/src) |
+| 3. [Data Types](https://github.com/ebubekirdgn/Java-Developer-Training-Camp-2022/tree/main/Homeworks/3%20-%20datatypes/src) |
+| 4. [Conditionals](https://github.com/ebubekirdgn/Java-Developer-Training-Camp-2022/tree/main/Homeworks/4%20-%20conditionals/src) |
+| 5. [Recap Demo 1](https://github.com/ebubekirdgn/Java-Developer-Training-Camp-2022/tree/main/Homeworks/5%20-%20recapDemo1/src) |
+| 6. [Switch Demo](https://github.com/ebubekirdgn/Java-Developer-Training-Camp-2022/tree/main/Homeworks/6%20-%20switchDemo/src)|
+| 7. [Loop Demo](https://github.com/ebubekirdgn/Java-Developer-Training-Camp-2022/tree/main/Homeworks/7%20-%20loopDemo/src) |
+| 8. [Arrays Demo](https://github.com/ebubekirdgn/Java-Developer-Training-Camp-2022/tree/main/Homeworks/8%20-%20arraysDemo/src) |
+| 9. [Recap Demo 2](https://github.com/ebubekirdgn/Java-Developer-Training-Camp-2022/tree/main/Homeworks/9%20-%20reCapDemo2/src) |
+| 10. [Multi Dimensional Array Demo](https://github.com/ebubekirdgn/Java-Developer-Training-Camp-2022/tree/main/Homeworks/10%20-%20multiDimensionalArrayDemo/src)|
+| 11. [Strings Demo](https://github.com/ebubekirdgn/Java-Developer-Training-Camp-2022/tree/main/Homeworks/11%20-%20stringsDemo/src) |
+| 12. [Mini Proje Asal Sayı](https://github.com/ebubekirdgn/Java-Developer-Training-Camp-2022/tree/main/Homeworks/12%20-%20miniProjeAsalSayi/src)  |
+| 13. [Sesli Harfler](https://github.com/ebubekirdgn/Java-Developer-Training-Camp-2022/tree/main/Homeworks/13%20-%20sesliHarfler/src)|
+| 14. [Mükemmel Sayı](https://github.com/ebubekirdgn/Java-Developer-Training-Camp-2022/tree/main/Homeworks/14%20-%20mukemmelSayi/src)  |
+| 15. [Arkadaş Sayı](https://github.com/ebubekirdgn/Java-Developer-Training-Camp-2022/tree/main/Homeworks/15%20-%20arkadasSayilar/src)  |
+| 16. [Sayı Bulma](https://github.com/ebubekirdgn/Java-Developer-Training-Camp-2022/tree/main/Homeworks/16%20-%20sayiBulma/src)  |
+| 17. [Methods](https://github.com/ebubekirdgn/Java-Developer-Training-Camp-2022/tree/main/Homeworks/17%20-%20methods/src)|
+| 18. [Classes](https://github.com/ebubekirdgn/Java-Developer-Training-Camp-2022/tree/main/Homeworks/18%20-%20classes/src)|
+| 19. [Classes Recap Demo](https://github.com/ebubekirdgn/Java-Developer-Training-Camp-2022/tree/main/Homeworks/19%20-%20reCapDemo_Classes/reCapDemo_Classes/src)|
+| 20. [Classes With Attribute](https://github.com/ebubekirdgn/Java-Developer-Training-Camp-2022/tree/main/Homeworks/20%20-%20classesWithAttribute/classesWithAttribute/src)|
+| 21. [Method Overloading](https://github.com/ebubekirdgn/Java-Developer-Training-Camp-2022/tree/main/Homeworks/21%20-%20methodOverloading/methodOverloading/src)  |
+| 22. [Inheritance](https://github.com/ebubekirdgn/Java-Developer-Training-Camp-2022/tree/main/Homeworks/22%20-%20inheritance/inheritance)  |
+| 23. [Inheritance Demo](https://github.com/ebubekirdgn/Java-Developer-Training-Camp-2022/tree/main/Homeworks/23%20-%20inheritanceDemo/inheritanceDemo)  |
+| 24. [Polimorphism Demo](https://github.com/ebubekirdgn/Java-Developer-Training-Camp-2022/tree/main/Homeworks/24%20-%20polimorphismDemo/polimorphismDemo)  |
+| 25. [Overriding](https://github.com/ebubekirdgn/Java-Developer-Training-Camp-2022/tree/main/Homeworks/25%20-%20Overriding/overriding)  |
+| 26. [Abstract Classes](https://github.com/ebubekirdgn/Java-Developer-Training-Camp-2022/tree/main/Homeworks/26%20-%20abstractClasses/abstractClasses)  |
+| 27. [Abstract Demo](https://github.com/ebubekirdgn/Java-Developer-Training-Camp-2022/tree/main/Homeworks/27%20-%20abstractDemo/abstractDemo)  |
+| 28. [Interfaces](https://github.com/ebubekirdgn/Java-Developer-Training-Camp-2022/tree/main/Homeworks/28%20-%20interfaces/interfaces)  |
+| 29. [Interface Demo](https://github.com/ebubekirdgn/Java-Developer-Training-Camp-2022/tree/main/Homeworks/29%20-%20interfaceDemo/interfaceDemo/src)  |
+| 30. [Static Demo](https://github.com/ebubekirdgn/Java-Developer-Training-Camp-2022/tree/main/Homeworks/30%20-%20staticDemo/staticDemo/src)  |
