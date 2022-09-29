@@ -5,8 +5,7 @@ public class Main {
 	  product.price = 120;
 	  product.name="Klavye";
 	  productManager.add(product);
-	  
-	  
+	
 	  DatabaseHelper.Crud.Delete();
 	  DatabaseHelper.Connection.CreateConnection(); // gibi şeylerde yapabiliriz.
     }
