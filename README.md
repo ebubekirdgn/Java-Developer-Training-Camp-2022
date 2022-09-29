@@ -3,7 +3,7 @@
 
 | Contents |
 | --- |
-| 1. [Java Demo] (https://github.com/ebubekirdgn/Java-Developer-Training-Camp-2022/tree/main/Homeworks/1%20-%20javademos/src) |
+| 1. [Java Demo](https://github.com/ebubekirdgn/Java-Developer-Training-Camp-2022/tree/main/Homeworks/1%20-%20javademos/src) |
 | 2. [Operators](https://github.com/ebubekirdgn/Python-Advance-Level/tree/main/02_Operators) |
 | 3. [Conditional Expression](https://github.com/ebubekirdgn/Python-Advance-Level/tree/main/3%20-%20Conditional%20Expressions) |
 | 4. [Loops](https://github.com/ebubekirdgn/Python-Advance-Level/tree/main/04_Loops) |
