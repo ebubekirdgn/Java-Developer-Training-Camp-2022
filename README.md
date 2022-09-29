@@ -1,7 +1,7 @@
 # Java-Bootcamp-2022 
 
 
-| Contents |
+| Homeworks Contents |
 | --- |
 | 1. [Java Demo](https://github.com/ebubekirdgn/Java-Developer-Training-Camp-2022/tree/main/Homeworks/1%20-%20javademos/src) |
 | 2. [Variables](https://github.com/ebubekirdgn/Java-Developer-Training-Camp-2022/tree/main/Homeworks/2%20-%20variables/src) |
