@@ -1,4 +1,8 @@
-# [![My Skills](https://skills.thijs.gg/icons?i=java,&theme=light)](https://skills.thijs.gg)Java Bootcamp 2022 
+<p align="center" width="100%">
+    [![My Skills](https://skills.thijs.gg/icons?i=java,&theme=light)](https://skills.thijs.gg) 
+</p>
+
+# Java Bootcamp 2022 
 
 | Homeworks Contents |
 | --- |
