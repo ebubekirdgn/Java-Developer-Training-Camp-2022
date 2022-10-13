@@ -32,9 +32,3 @@
 | 28. [Interfaces](https://github.com/ebubekirdgn/Java-Developer-Training-Camp-2022/tree/main/Homeworks/28%20-%20interfaces/interfaces)  |
 | 29. [Interface Demo](https://github.com/ebubekirdgn/Java-Developer-Training-Camp-2022/tree/main/Homeworks/29%20-%20interfaceDemo/interfaceDemo/src)  |
 | 30. [Static Demo](https://github.com/ebubekirdgn/Java-Developer-Training-Camp-2022/tree/main/Homeworks/30%20-%20staticDemo/staticDemo/src)  |
-
-
-| Lessons Contents |
-| --- |
-| [1.Hafta](https://github.com/ebubekirdgn/Java-Developer-Training-Camp-2022/tree/main/Lessons/21-09-2022) |
-| [2.Hafta](https://github.com/ebubekirdgn/Java-Developer-Training-Camp-2022/tree/main/Lessons/21-09-2022) |
