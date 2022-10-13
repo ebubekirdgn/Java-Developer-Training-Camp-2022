@@ -10,11 +10,9 @@ import lombok.Data;
 // Lombok'ın görevi butun getter ve setterları getirmektir.
 @Data
 @Entity
-@Table
+@Table(name="products")
 public class Product {
-	
-	
-	
+
 	@Id
 	@GeneratedValue
 	@Column(name ="product_id")
