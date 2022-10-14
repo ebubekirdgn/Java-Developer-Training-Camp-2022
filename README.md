@@ -3,7 +3,7 @@
 | Homeworks Contents |
 | --- |
 | 1. [Java Demo](https://github.com/ebubekirdgn/Java-Developer-Training-Camp-2022/tree/main/Homeworks/1-2%20-%20Weeks/1%20-%20javademos/src) |
-| 2. [Variables]([https://github.com/ebubekirdgn/Java-Developer-Training-Camp-2022/tree/main/Homeworks/2%20-%20variables/src](https://github.com/ebubekirdgn/Java-Developer-Training-Camp-2022/tree/main/Homeworks/1-2%20-%20Weeks/2%20-%20variables/src)) |
+| 2. [Variables](https://github.com/ebubekirdgn/Java-Developer-Training-Camp-2022/tree/main/Homeworks/1-2%20-%20Weeks/2%20-%20variables/src)) |
 | 3. [Data Types](https://github.com/ebubekirdgn/Java-Developer-Training-Camp-2022/tree/main/Homeworks/3%20-%20datatypes/src) |
 | 4. [Conditionals](https://github.com/ebubekirdgn/Java-Developer-Training-Camp-2022/tree/main/Homeworks/4%20-%20conditionals/src) |
 | 5. [Recap Demo 1](https://github.com/ebubekirdgn/Java-Developer-Training-Camp-2022/tree/main/Homeworks/5%20-%20recapDemo1/src) |
