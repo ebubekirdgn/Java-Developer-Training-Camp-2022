@@ -35,7 +35,7 @@
 <hr>
 
 # Spring Boot Anotasyonları
-<b>@Bean</b> :  Proje class'ı olduğunu belirten annotation'dır. <br>
+<b>@Bean</b> :  Application contexte return tipinde belirtilen tipte bir objenin bean olarak ekleneceğini belirtir. <br>
 <b>@Service</b>  : Belirtilen sınıfın bir servis sınıfı olduğunu belirtir.<br>
 <b>@Repository</b>  : Veritabanı işlemlerini gerçekleştirme yeteneği olan yapıldığı repository sınıfını belirtir.<br>
 <b>@Configuration</b>  : Bean tanımlamaları gibi tanımlamalar için bir Bean sınıfı olduğunu belirtir.<br>
