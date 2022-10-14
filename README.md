@@ -49,5 +49,5 @@
 <b>@Id</b>  : Attribute'un bir Id değer olduğunu bildirir.<br>
 <b>@GeneretadValue</b>  : Id değerinin otomatik olarak 1 er 1 er artacağını belirtiyor.<br>
 <b>@EnableSwagger2</b>  : Swagger'ı başlatan annotation'dır.<br>
-<b>@RequestBody</b> : Spring'in tüm isteği model sınıfına eşleştirmesini sağlar ve buradan alıcı ve ayarlayıcı yöntemlerinden değerleri alabilir veya ayarlayabilirsiniz.
+<b>@RequestBody</b> : Spring'in tüm isteği model sınıfına eşleştirmesini sağlar ve buradan alıcı ve ayarlayıcı yöntemlerinden değerleri alabilir veya ayarlayabilirsiniz.<br>
 <b>@AllArgsConstructor</b> : Tüm attribute'leri kullanarak otomatik olarak constructor oluşturmaya yarar.
