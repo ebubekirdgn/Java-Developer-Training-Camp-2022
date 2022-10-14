@@ -35,16 +35,17 @@
 <hr>
 
 # Spring Boot Anotasyonları
-<b>@Bean</b> :  Proje class'ı olduğunu belirten anotasyondur. <br>
+<b>@Bean</b> :  Proje class'ı olduğunu belirten annotation'dır. <br>
 <b>@Service</b>  : Belirtilen sınıfın bir servis sınıfı olduğunu belirtir.<br>
 <b>@Repository</b>  : Veritabanı işlemlerini gerçekleştirme yeteneği olan yapıldığı repository sınıfını belirtir.<br>
 <b>@Configuration</b>  : Bean tanımlamaları gibi tanımlamalar için bir Bean sınıfı olduğunu belirtir.<br>
 <b>@Controller</b>  : Requestleri yakalayabilme yeteneği olan bir web controller sınıfını belirtir.<br>
 <b>@RequestMapping</b>  : Controller sınıfının handle ettiği HTTP Requestlerin path eşleştirmesini yapar.<br>
 <b>@Autowired</b>  : Constructor, Değişken yada setter metodlar için dependency injection işlemi gerçekleştirir.<br>
-<b>@SpringBootApplication</b>  : Spring Boot autoconfiguration ve component taramasını aktif eder.<br>
+<b>@SpringBootApplication</b>  : Spring Boot auto configuration ve component taramasını aktif eder.<br>
 <b>@Data</b>  : Yazılan attribute'lerin getter ve setter'larını hazır olarak sunar.<br>
-<b>@Entity</b>  : Nesnenin entity sayılabilmesi ve veritabanı tarafından tanınabilmesi için gerekli olan annotation'dur.<br>
+<b>@Entity</b>  : Nesnenin entity sayılabilmesi ve veritabanı tarafından tanınabilmesi için gerekli olan annotation'dır.<br>
 <b>@Table(name="table_name")</b>  : Bulunduğu class'ın bir veritabanı tablosu olduğunu bildirir.<br>
 <b>@Id</b>  : Attribute'un bir Id değer olduğunu bildirir.<br>
 <b>@GeneretadValue</b>  : Id değerinin otomatik olarak 1 er 1 er artacağını belirtiyor.<br>
+<b>@EnableSwagger2</b>  : Swagger'ı başlatan annotation'dır.<br>
