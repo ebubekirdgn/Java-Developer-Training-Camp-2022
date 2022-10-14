@@ -12,9 +12,9 @@
 | 8. [Arrays Demo](https://github.com/ebubekirdgn/Java-Developer-Training-Camp-2022/tree/main/Homeworks/1-2%20-%20Weeks/8%20-%20arraysDemo/src) |
 | 9. [Recap Demo 2](https://github.com/ebubekirdgn/Java-Developer-Training-Camp-2022/tree/main/Homeworks/1-2%20-%20Weeks/9%20-%20reCapDemo2/src) |
 | 10. [Multi Dimensional Array Demo](https://github.com/ebubekirdgn/Java-Developer-Training-Camp-2022/tree/main/Homeworks/1-2%20-%20Weeks/10%20-%20multiDimensionalArrayDemo/src)|
-| 11. [Strings Demo](https://github.com/ebubekirdgn/Java-Developer-Training-Camp-2022/tree/main/Homeworks/11%20-%20stringsDemo/src) |
-| 12. [Mini Proje Asal Sayı](https://github.com/ebubekirdgn/Java-Developer-Training-Camp-2022/tree/main/Homeworks/12%20-%20miniProjeAsalSayi/src)  |
-| 13. [Sesli Harfler](https://github.com/ebubekirdgn/Java-Developer-Training-Camp-2022/tree/main/Homeworks/13%20-%20sesliHarfler/src)|
+| 11. [Strings Demo](https://github.com/ebubekirdgn/Java-Developer-Training-Camp-2022/tree/main/Homeworks/1-2%20-%20Weeks/11%20-%20stringsDemo/src) |
+| 12. [Mini Proje Asal Sayı](https://github.com/ebubekirdgn/Java-Developer-Training-Camp-2022/tree/main/Homeworks/1-2%20-%20Weeks/12%20-%20miniProjeAsalSayi/src)  |
+| 13. [Sesli Harfler](https://github.com/ebubekirdgn/Java-Developer-Training-Camp-2022/tree/main/Homeworks/1-2%20-%20Weeks/13%20-%20sesliHarfler/src)|
 | 14. [Mükemmel Sayı](https://github.com/ebubekirdgn/Java-Developer-Training-Camp-2022/tree/main/Homeworks/14%20-%20mukemmelSayi/src)  |
 | 15. [Arkadaş Sayı](https://github.com/ebubekirdgn/Java-Developer-Training-Camp-2022/tree/main/Homeworks/15%20-%20arkadasSayilar/src)  |
 | 16. [Sayı Bulma](https://github.com/ebubekirdgn/Java-Developer-Training-Camp-2022/tree/main/Homeworks/16%20-%20sayiBulma/src)  |
