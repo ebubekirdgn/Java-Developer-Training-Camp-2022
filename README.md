@@ -33,3 +33,5 @@
 | 29. [Interface Demo](https://github.com/ebubekirdgn/Java-Developer-Training-Camp-2022/tree/main/Homeworks/1-2%20-%20Weeks/29%20-%20interfaceDemo/interfaceDemo/src)  |
 | 30. [Static Demo](https://github.com/ebubekirdgn/Java-Developer-Training-Camp-2022/tree/main/Homeworks/1-2%20-%20Weeks/30%20-%20staticDemo/staticDemo/src)  |
 <hr>
+
+##Spring Boot Anotasyonları
