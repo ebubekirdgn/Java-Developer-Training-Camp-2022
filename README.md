@@ -35,16 +35,16 @@
 <hr>
 
 # Spring Boot Anotasyonları
-@Bean :  Proje class'ı olduğunu belirten anotasyondur.
-@Service : Belirtilen sınıfın bir servis sınıfı olduğunu belirtir.
-@Repository : Veritabanı işlemlerini gerçekleştirme yeteneği olan yapıldığı repository sınıfını belirtir.
-@Configuration : Bean tanımlamaları gibi tanımlamalar için bir Bean sınıfı olduğunu belirtir
-@Controller : Requestleri yakalayabilme yeteneği olan bir web controller sınıfını belirtir.
-@RequestMapping : Controller sınıfının handle ettiği HTTP Requestlerin path eşleştirmesini yapar
-@Autowired : Constructor, Değişken yada setter metodlar için dependency injection işlemi gerçekleştirir
-@SpringBootApplication : Spring Boot autoconfiguration ve component taramasını aktif eder.
-@Data : Yazılan attribute'lerin getter ve setter'larını hazır olarak sunar.
-@Entity : Nesnenin entity sayılabilmesi ve veritabanı tarafından tanınabilmesi için gerekli olan annotation'dur.
-@Table(name="table_name") : Bulunduğu class'ın bir veritabanı tablosu olduğunu bildirir.
-@Id : Attribute'un bir Id değer olduğunu bildirir.
-@GeneretadValue : Id değerinin otomatik olarak 1 er 1 er artacağını belirtiyor.
+## @Bean :  Proje class'ı olduğunu belirten anotasyondur. <br>
+@Service : Belirtilen sınıfın bir servis sınıfı olduğunu belirtir.<br>
+@Repository : Veritabanı işlemlerini gerçekleştirme yeteneği olan yapıldığı repository sınıfını belirtir.<br>
+@Configuration : Bean tanımlamaları gibi tanımlamalar için bir Bean sınıfı olduğunu belirtir.<br>
+@Controller : Requestleri yakalayabilme yeteneği olan bir web controller sınıfını belirtir.<br>
+@RequestMapping : Controller sınıfının handle ettiği HTTP Requestlerin path eşleştirmesini yapar.<br>
+@Autowired : Constructor, Değişken yada setter metodlar için dependency injection işlemi gerçekleştirir.<br>
+@SpringBootApplication : Spring Boot autoconfiguration ve component taramasını aktif eder.<br>
+@Data : Yazılan attribute'lerin getter ve setter'larını hazır olarak sunar.<br>
+@Entity : Nesnenin entity sayılabilmesi ve veritabanı tarafından tanınabilmesi için gerekli olan annotation'dur.<br>
+@Table(name="table_name") : Bulunduğu class'ın bir veritabanı tablosu olduğunu bildirir.<br>
+@Id : Attribute'un bir Id değer olduğunu bildirir.<br>
+@GeneretadValue : Id değerinin otomatik olarak 1 er 1 er artacağını belirtiyor.<br>
