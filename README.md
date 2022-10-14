@@ -25,11 +25,11 @@
 | 21. [Method Overloading](https://github.com/ebubekirdgn/Java-Developer-Training-Camp-2022/tree/main/Homeworks/1-2%20-%20Weeks/21%20-%20methodOverloading/methodOverloading/src)  |
 | 22. [Inheritance](https://github.com/ebubekirdgn/Java-Developer-Training-Camp-2022/tree/main/Homeworks/1-2%20-%20Weeks/22%20-%20inheritance/inheritance)  |
 | 23. [Inheritance Demo](https://github.com/ebubekirdgn/Java-Developer-Training-Camp-2022/tree/main/Homeworks/1-2%20-%20Weeks/23%20-%20inheritanceDemo/inheritanceDemo)  |
-| 24. [Polimorphism Demo](https://github.com/ebubekirdgn/Java-Developer-Training-Camp-2022/tree/main/Homeworks/24%20-%20polimorphismDemo/polimorphismDemo)  |
-| 25. [Overriding](https://github.com/ebubekirdgn/Java-Developer-Training-Camp-2022/tree/main/Homeworks/25%20-%20Overriding/overriding)  |
-| 26. [Abstract Classes](https://github.com/ebubekirdgn/Java-Developer-Training-Camp-2022/tree/main/Homeworks/26%20-%20abstractClasses/abstractClasses)  |
-| 27. [Abstract Demo](https://github.com/ebubekirdgn/Java-Developer-Training-Camp-2022/tree/main/Homeworks/27%20-%20abstractDemo/abstractDemo)  |
-| 28. [Interfaces](https://github.com/ebubekirdgn/Java-Developer-Training-Camp-2022/tree/main/Homeworks/28%20-%20interfaces/interfaces)  |
+| 24. [Polimorphism Demo](https://github.com/ebubekirdgn/Java-Developer-Training-Camp-2022/tree/main/Homeworks/1-2%20-%20Weeks/24%20-%20polimorphismDemo/polimorphismDemo)  |
+| 25. [Overriding](https://github.com/ebubekirdgn/Java-Developer-Training-Camp-2022/tree/main/Homeworks/1-2%20-%20Weeks/25%20-%20Overriding/overriding)  |
+| 26. [Abstract Classes](https://github.com/ebubekirdgn/Java-Developer-Training-Camp-2022/tree/main/Homeworks/1-2%20-%20Weeks/26%20-%20abstractClasses/abstractClasses)  |
+| 27. [Abstract Demo](https://github.com/ebubekirdgn/Java-Developer-Training-Camp-2022/tree/main/Homeworks/1-2%20-%20Weeks/27%20-%20abstractDemo/abstractDemo)  |
+| 28. [Interfaces](https://github.com/ebubekirdgn/Java-Developer-Training-Camp-2022/tree/main/Homeworks/1-2%20-%20Weeks/28%20-%20interfaces/interfaces)  |
 | 29. [Interface Demo](https://github.com/ebubekirdgn/Java-Developer-Training-Camp-2022/tree/main/Homeworks/29%20-%20interfaceDemo/interfaceDemo/src)  |
 | 30. [Static Demo](https://github.com/ebubekirdgn/Java-Developer-Training-Camp-2022/tree/main/Homeworks/30%20-%20staticDemo/staticDemo/src)  |
 <hr>
