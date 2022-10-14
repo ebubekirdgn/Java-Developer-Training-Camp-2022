@@ -9,7 +9,7 @@
 | 5. [Recap Demo 1](https://github.com/ebubekirdgn/Java-Developer-Training-Camp-2022/tree/main/Homeworks/1-2%20-%20Weeks/5%20-%20recapDemo1/src) |
 | 6. [Switch Demo](https://github.com/ebubekirdgn/Java-Developer-Training-Camp-2022/tree/main/Homeworks/1-2%20-%20Weeks/6%20-%20switchDemo/src)|
 | 7. [Loop Demo](https://github.com/ebubekirdgn/Java-Developer-Training-Camp-2022/tree/main/Homeworks/1-2%20-%20Weeks/7%20-%20loopDemo/src) |
-| 8. [Arrays Demo]https://github.com/ebubekirdgn/Java-Developer-Training-Camp-2022/tree/main/Homeworks/1-2%20-%20Weeks/8%20-%20arraysDemo/src) |
+| 8. [Arrays Demo] (https://github.com/ebubekirdgn/Java-Developer-Training-Camp-2022/tree/main/Homeworks/1-2%20-%20Weeks/8%20-%20arraysDemo/src) |
 | 9. [Recap Demo 2](https://github.com/ebubekirdgn/Java-Developer-Training-Camp-2022/tree/main/Homeworks/1-2%20-%20Weeks/9%20-%20reCapDemo2/src) |
 | 10. [Multi Dimensional Array Demo](https://github.com/ebubekirdgn/Java-Developer-Training-Camp-2022/tree/main/Homeworks/1-2%20-%20Weeks/10%20-%20multiDimensionalArrayDemo/src)|
 | 11. [Strings Demo](https://github.com/ebubekirdgn/Java-Developer-Training-Camp-2022/tree/main/Homeworks/11%20-%20stringsDemo/src) |
