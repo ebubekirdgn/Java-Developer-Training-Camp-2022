@@ -52,3 +52,4 @@
 <b>@RequestBody</b> : Spring'in tüm isteği model sınıfına eşleştirmesini sağlar ve buradan alıcı ve ayarlayıcı yöntemlerinden değerleri alabilir veya ayarlayabilirsiniz.<br>
 <b>@AllArgsConstructor</b> : Tüm attribute'leri kullanarak otomatik olarak constructor oluşturmaya yarar. <br>
 <b>@NoArgsConstructor</b> : Parametresiz Constructor üretir. 
+
